@@ -1,0 +1,29 @@
+.borda{
+    background-color: white;
+    width: 1130px;
+    margin-left: 100px;
+    margin-right: 200px;
+    padding: 50px;
+}
+
+.borda2{
+    display:inline-flex;
+    justify-content: flex-start;
+
+}
+
+.imgpro {
+    margin: 8px 40px 10px 40px;
+}
+
+footer {
+    font-size:90%;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.img{
+    margin: auto;
+    display: block;
+    padding: 25px;
+  }
