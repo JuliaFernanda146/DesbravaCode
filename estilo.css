@@ -1,13 +1,13 @@
 .borda{
-    background-color: white;
-    width: 1130px;
-    margin-left: 100px;
-    margin-right: 200px;
-    padding: 50px;
+    font: 16px/1.4 sans-serif;  
+  max-width: 1200px;  
+  margin: 0 auto;
+  padding: 20px;
+  background: #e9f;
 }
 
 .borda2{
-    display:inline-flex;
+    display:flex;
     justify-content: flex-start;
 
 }
@@ -28,7 +28,22 @@ footer {
     padding: 25px;
   }
 
- footer {
+  footer {
     bottom:0;
     left:0;
 }
+
+@media (min-width: 500px) {
+    .img {
+        width: 60%;
+        height: 50%;
+    
+      }
+      .borda2{
+        order: -100;
+      }
+    .borda {
+      font-size: calc(16px + (8/1200) * 100 * 1vw);
+      background: #ffe;
+    }
+  }
