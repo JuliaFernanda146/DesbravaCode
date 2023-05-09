@@ -1,61 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/</loc>
-  <lastmod>2023-05-02T13:40:14+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/index.html</loc>
-  <lastmod>2023-05-02T13:40:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/index.html</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/java.html</loc>
-  <lastmod>2023-05-02T13:40:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/java.html</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/html5.html</loc>
-  <lastmod>2023-05-02T13:40:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/html5.html</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/php.html</loc>
-  <lastmod>2023-05-02T13:40:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/php.html</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/csharp.html</loc>
-  <lastmod>2023-05-02T13:40:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/csharp.html</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/sobre.html</loc>
-  <lastmod>2023-05-02T13:40:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/sobre.html</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/professor.html</loc>
-  <lastmod>2023-05-02T13:40:14+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/professor.html</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/robots.txt</loc>
-  <lastmod>2023-05-08T12:18:18+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/robots.txt</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.64</priority>
 </url>
 <url>
-  <loc>https://juliafernanda146.github.io/DesbravaCode/googleanalytics.pdf</loc>
-  <lastmod>2023-05-08T12:18:18+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>https://juliafernanda146.github.io/DesbravaCode/googleanalytics.pdf</loc>
+<lastmod>2023-05-09T13:46:02+00:00</lastmod>
+<priority>0.64</priority>
 </url>
-
 </urlset>
