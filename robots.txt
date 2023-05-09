@@ -1,3 +1,2 @@
 User-agent:*
 Disallow: https://juliafernanda146.github.io/DesbravaCode/professor.html
-Sitemap: https://juliafernanda146.github.io/DesbravaCode/sitemap.xml
