@@ -1,2 +1,0 @@
-User-agent:*
-Disallow: https://juliafernanda146.github.io/DesbravaCode/professor.html
