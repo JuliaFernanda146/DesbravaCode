@@ -159,6 +159,20 @@ input[type=checkbox]{
   max-width: 60%;
 }
 
+#topo{
+  border: none;
+  cursor: pointer;
+  position: fixed;
+  background: none;
+  bottom: 40px;
+  left: 1200px;
+  z-index: 100000;
+}
+
+.seta-topo {
+  width: 60px;
+}
+
 footer {
   font-size:90%;
   text-align: center;
