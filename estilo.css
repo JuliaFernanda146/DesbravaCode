@@ -191,6 +191,22 @@ footer {
   left:0;
 
 }
+a.link:link {
+  color:dimgray;
+  text-decoration: underline;
+}
+
+a.link:hover {
+  color:mediumspringgreen;
+  text-decoration: none; /* remove o sublinhado */
+}
+
+a.link:visited{
+  color:rgb(39, 25, 28);  
+}
+a.link:active {
+  color:mediumspringgreen;
+}
 
 
 @media (max-width: 500px) {
